@@ -16,7 +16,7 @@ bash install.sh
 ## Instructions
 
 1. Copy email content
-2. Go root project directory and run command:
+2. Go to root project directory and run command:
 ```
 bash run.sh
 ```
